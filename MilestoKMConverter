@@ -1,0 +1,11 @@
+let milestokilometres=1.60934;
+let miles=prompt("Please enter distance in miles ?");
+console.log(miles,"miles");
+
+let kilometres= miles * milestokilometres;
+
+console.log(kilometres,"Kilometeres");
+
+let sentence=("The distance of " + kilometres + "kms is equal to"+" " + miles +" " +  "miles");
+console.log(sentence);
+
