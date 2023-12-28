@@ -1,1 +1,1 @@
-## Javascript basic projects created as a beginner
+# Projects with Vanilla Javascript
